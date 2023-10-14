@@ -9,6 +9,7 @@ Customer  : Elle contient les informations relatives aux clients de la banque, a
 
 Un extrait du schéma GraphQL:
 ![image](https://github.com/OuakilManal22/Micro-Services-using-GraphQL/assets/105586177/7991c0a9-dc17-461b-828a-89fff14d39c3)
+
 Ce schéma décrit la structure de données et les opérations que le serveur GraphQL peut gérer, ce qui permet aux utilisateurs de poser des questions et d'effectuer des mutations sur ces données de manière précise et flexible. 
 
 
