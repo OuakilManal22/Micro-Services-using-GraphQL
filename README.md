@@ -1,5 +1,4 @@
 # Micro-Services-using-GraphQL
-# Micro-Services-using-GraphQL
 GraphQL est un langage de requête et une technologie de serveur qui permet aux clients de demander précisément les données dont ils ont besoin à partir d'un serveur, contrairement aux API REST traditionnelles où le serveur définit les structures de données et renvoie des réponses prédéfinies. Parmi les avantages qu'il offre:
 Flexibilité des requêtes : GraphQL permet aux clients de spécifier les champs de données qu'ils souhaitent récupérer, évitant ainsi les surcharges de données inutiles.
 Structure de type : Les données exposées via GraphQL sont organisées en types et champs. Chaque type définit les données qu'il contient, et les clients peuvent interroger ces champs de manière récursive pour obtenir des données liées.
